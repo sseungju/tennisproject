@@ -1,0 +1,9 @@
+<총 경기 결과>
+2팀 승리
+1세트 1:6 team2 승리
+2세트 1:6 team2 승리
+3세트 6:4 team1 승리
+4세트 3:6 team2 승리
+
+team1: (1세트) 30	AD	40	30	15	40	40		(2세트)AD	40	0	30	15	40	40		(3세트)0	0	40	AD	AD	AD	30	AD	AD	AD		(4세트)AD	AD	0	AD	30	0	15	40	15	
+team2: (1세트) AD	15	AD	AD	AD	AD	AD		(2세트) 30	AD	AD	AD	AD	AD	AD		(3세트) AD	AD	AD	40	0	40	AD	15	30	30		(4세트) 15	15	AD	40	AD	AD	AD	AD	AD	
